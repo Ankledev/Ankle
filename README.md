@@ -9,8 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@maxhudotdev"><img src="./assets/youtube-badge.svg"/></a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=maxhu08&color=grey&style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@14ٴٴٴ"><img src="./assets/youtube-badge.svg"/></a>
 </div>
 
 <br />
